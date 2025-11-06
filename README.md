@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-<!-- プロフィール詳細 -->
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kana-0308&theme=dracula)
-
 <!-- リポジトリごとの言語グラフ -->
 ![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kana-0308&theme=dracula)
 
+<!-- スタッツ -->
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kana-0308&theme=dracula)
 
 <!--
 **kana-0308/kana-0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
