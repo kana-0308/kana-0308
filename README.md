@@ -1,4 +1,4 @@
-## Hi there 👋
+## ヘロー 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kana-0308)](https://github.com/anuraghazra/github-readme-stats)
 
