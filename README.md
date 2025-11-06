@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kana-0308)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **kana-0308/kana-0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
