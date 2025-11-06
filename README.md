@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kana-0308)](https://github.com/anuraghazra/github-readme-stats)
+<!-- プロフィール詳細 -->
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kana-0308&theme=dracula)
+
+<!-- リポジトリごとの言語グラフ -->
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kana-0308&theme=dracula)
+
+<!-- コミットごとの言語グラフ -->
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kana-0308&theme=dracula)
 
 <!--
 **kana-0308/kana-0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
